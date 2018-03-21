@@ -1,7 +1,7 @@
 {
   "name": "client",
   "version": "0.1.1",
-  "description": "Ebookcoin user-interface submodule",
+  "description": "nsvnteasy user-interface submodule",
   "repository": {
     "type": "git",
     "url": "git@github.com:nsvnteasy/client.git"
